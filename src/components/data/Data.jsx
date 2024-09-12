@@ -103,56 +103,56 @@ export const services = [
   {
     icon: <i class="fa fa-hotel fa-2x text-primary"></i>,
     name: "Rooms & Appartment",
-    discription: "Contrary to popular belief, ipsum is not simply random.",
+    discription: "Elegant rooms, spacious suites, modern amenities, refined décor, and stunning city views..",
   },
   {
     icon: <i class="fa fa-utensils fa-2x text-primary"></i>,
     name: "Food & Restaurant",
-    discription: "Contrary to popular belief, ipsum is not simply random.",
+    discription: "Gourmet cuisine, world-class chefs, diverse menus, exceptional service, exquisite dining experience.",
   },
   {
     icon: <i class="fa fa-spa fa-2x text-primary"></i>,
     name: "Spa & Fitness",
-    discription: "Contrary to popular belief, ipsum is not simply random.",
+    discription: "A serene spa and state-of-the-art fitness center offering ultimate relaxation.",
   },
 
   {
     icon: <i class="fa fa-swimmer fa-2x text-primary"></i>,
     name: "Sports & Gaming",
-    discription: "Contrary to popular belief, ipsum is not simply random.",
+    discription: "Luxury hotel sports and gaming: world-class amenities, elite facilities, premium gaming experiences.",
   },
   {
     icon: <i class="fa fa-glass-cheers fa-2x text-primary"></i>,
     name: "Event & Party",
-    discription: "Contrary to popular belief, ipsum is not simply random.",
+    discription: "A glamorous event with elegant décor, gourmet cuisine, and lively entertainment.",
   },
 
   {
     icon: <i class="fa fa-dumbbell fa-2x text-primary"></i>,
     name: "GYM & Yoga",
-    discription: "Contrary to popular belief, ipsum is not simply random.",
+    discription: "A serene luxury hotel offering premium gym facilities and rejuvenating yoga sessions.",
   },
 ];
 export const team = [
   {
     image: "../assets/img/team-1.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "Aarav",
+    designation: "Hotel Manager",
   },
   {
     image: "../assets/img/team-2.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "Vihaan",
+    designation: "Guest Experience Manager",
   },
   {
     image: "../assets/img/team-3.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "Arjun",
+    designation: "Housekeeping Director",
   },
   {
     image: "../assets/img/team-3.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "Rohan",
+    designation: "Food and Beverage Manager",
   },
 ];
 
@@ -204,11 +204,11 @@ export const footerItem = [
 export const footerContact = [
   {
     icon: <i className="fa fa-map-marker-alt me-3"></i>,
-    name: "123 Street, New York, USA",
+    name: "vv puram kr road banglore 560004",
   },
   {
     icon: <i className="fa fa-phone-alt me-3"></i>,
-    name: "+012 345 67890",
+    name: "91+7373737373",
   },
   {
     icon: <i className="fa fa-envelope me-3"></i>,
@@ -224,7 +224,7 @@ export const contact = [
   },
   {
     icon: <i class="fa fa-envelope-open text-primary me-2"></i>,
-    title: "Technical",
+    title: "Technialical",
     email: "tech@example.com",
   },
   {
@@ -236,9 +236,9 @@ export const contact = [
 export const testimonial = [
   {
     description:
-      "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
-    profession: "Profession",
+      "Exceptional service, luxurious amenities, and a breathtaking view made our stay unforgettable and truly relaxing.",
+    name: "Isha",
+    profession: "Doctor",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
@@ -246,9 +246,9 @@ export const testimonial = [
   },
   {
     description:
-      "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
-    profession: "Profession",
+      "Impeccable cleanliness, friendly staff, and a delicious breakfast buffet created a perfect start to our mornings",
+    name: "Ranjan",
+    profession: "Content Creator",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
@@ -256,9 +256,9 @@ export const testimonial = [
   },
   {
     description:
-      "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
-    profession: "Profession",
+      "The serene spa and stylish rooms offered a rejuvenating escape, enhancing our overall hotel experience.",
+    name: "Sonu gupta",
+    profession: "Software Engineer ",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
@@ -269,7 +269,7 @@ export const testimonial = [
 export const roomItems = [
   {
     img: "../assets/img/room-1.jpg",
-    price: "$110/night",
+    price: "RS-1100/night",
     name: "Junior Suit",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -279,14 +279,14 @@ export const roomItems = [
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.",
+      "Spacious room with separate seating area, luxurious amenities, and enhanced comfort features.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },
 
   {
     img: "../assets/img/room-2.jpg",
-    price: "$110/night",
+    price: "Rs-1500/night",
     name: "Executive Suite",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -296,13 +296,13 @@ export const roomItems = [
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.",
+      "Luxurious Executive Suite with separate living area, premium amenities, and stunning city views.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },
   {
     img: "../assets/img/room-3.jpg",
-    price: "$110/night",
+    price: "Rs-2100/night",
     name: "Super Deluxe",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -312,7 +312,7 @@ export const roomItems = [
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.",
+      "Luxurious Super Deluxe room with elegant furnishings, spacious layout, and premium amenities.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },
